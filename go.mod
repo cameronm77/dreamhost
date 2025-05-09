@@ -1,4 +1,4 @@
-module github.com/caddy-dns/dreamhost
+module github.com/cameronm77/dreamhost
 
 go 1.24
 
